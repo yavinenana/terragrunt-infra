@@ -1,0 +1,7 @@
+.idea
+.terragrunt-cache
+.terraform
+modules
+
+terraform states
+.DS_Store
